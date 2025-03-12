@@ -180,7 +180,7 @@ article {
   position: relative;
   background: var(--border-gradient-onyx);
   width: 30px;
-  height: px;
+  height: 0px;
   border-radius: 8px;
   display: flex;
   justify-content: center;
