@@ -9,7 +9,7 @@
 ## Portfolio of Kin
 
 - Name   :    Portfolio of Kin
-- Version:    1.0.0
+- Version:    3.0.0
 - Auther :    Kin Design
 - Web    :    https://hungkien88.github.io
 
